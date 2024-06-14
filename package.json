@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "atomizer": "^3.29.0"
+  },
+  "name": "atomizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "atomize": "atomizer -o ./dist/output.css --watch index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
